@@ -6,6 +6,10 @@ function add(a,b:number){
     return a+b;
 }
 
+function sub(a,b:number){
+    return a-b;
+}
+
 
 
 
